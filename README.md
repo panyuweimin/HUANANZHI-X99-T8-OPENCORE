@@ -90,6 +90,7 @@
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [Koshak1013](https://github.com/Koshak1013/HuananzhiX99_BIOS_mods/tree/master/Huananzhi%20X99-F8/2020-05-25%20(%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D1%82%D1%81%D1%8F))
 - [Xeon e5450](https://xeon-e5450.ru/socket-2011-3/huananzhi-x99-t8/)
+- [xCuri0 ReBarUEFI](https://github.com/xCuri0/ReBarUEFI)
 
 
 
